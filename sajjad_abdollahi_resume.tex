@@ -70,6 +70,18 @@
     \end{tabular*}\vspace{-5pt}
 }
 
+
+
+\newcommand{\resumeSkill}[1]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+
+
 \newcommand{\resumeSubSubheading}[2]{
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textit{\small#1} & \textit{\small #2} \\
@@ -99,8 +111,13 @@
 \end{tabular*}
 
 
+
+\vspace{20pt}
+
+
 %-----------EDUCATION-----------------
 \section{Education}
+  \vspace{10pt}
   \resumeSubHeadingListStart
     \resumeSubheading
       {Georgia Institute of Technology}{Atlanta, GA}
@@ -111,10 +128,14 @@
   \resumeSubHeadingListEnd
 
 
+
+\vspace{20pt}
+
+
 %-----------EXPERIENCE-----------------
 \section{Experience}
   \resumeSubHeadingListStart
-
+    \vspace{10pt}
     \resumeSubheading
       {Google}{Mountain View, CA}
       {Software Engineer}{Oct 2016 - Present}
@@ -133,8 +154,8 @@
 %          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
 %     \resumeItemListEnd
 %    \resumeSubHeadingListEnd
-%-------------------------------------------
-
+%------------------------------------------- 
+    \vspace{10pt}
     \resumeSubheading
       {Coursera}{Mountain View, CA}
       {Senior Software Engineer}{Jan 2014 - Oct 2016}
@@ -158,7 +179,8 @@
         \resumeItem{Course Dashboards}
           {Instructor dashboards and learner surveying tools, which helped instructors run their class better by providing data on Assignments and Learner Activity.}
       \resumeItemListEnd
-
+    
+    \newpage
     \resumeSubheading
       {Lucena Research}{Atlanta, GA}
       {Data Scientist}{Summer 2012 and 2013}
@@ -195,16 +217,30 @@
       {Book that gives step by step instructions on setting up developer environment on Mac OS.}
   \resumeSubHeadingListEnd
 
-%
-%--------PROGRAMMING SKILLS------------
-%\section{Programming Skills}
+
+
+%-----------SKILLS-----------------
+%\section{Skills}
 %  \resumeSubHeadingListStart
-%    \item{
-%      \textbf{Languages}{: Scala, Python, Javascript, C++, SQL, Java}
-%      \hfill
-%      \textbf{Technologies}{: AWS, Play, React, Kafka, GCE}
-%    }
+%    \resumeSkill{PHP}
+%    \resumeSkill{Laravel}
 %  \resumeSubHeadingListEnd
+
+
+
+\vspace{20pt}
+
+
+%--------PROGRAMMING SKILLS------------
+\section{Programming Skills}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Languages}{: PHP, Laravel, HTML, CSS, Javascript, React, React Native}
+    }
+    \item{
+      \textbf{Technologies}{: Git, Docker, Devops , Design Patterns, Eloquent ORM, Tailwind, Alpine, Livewire}
+    }
+  \resumeSubHeadingListEnd
 
 
 %-------------------------------------------
