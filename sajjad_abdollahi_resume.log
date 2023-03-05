@@ -1,151 +1,160 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.26)  4 MAR 2023 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.5)  5 MAR 2023 09:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**sajjad_abdollahi_resume.tex
-(./sajjad_abdollahi_resume.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**C:/Users/sajjad/Desktop/githubbb/best-ats-resume-kitkat/sajjad_abdollahi_resu
+me.tex
+
+(C:/Users/sajjad/Desktop/githubbb/best-ats-resume-kitkat/sajjad_abdollahi_resum
+e.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip49
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.st
+y
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box50
+\ttl@box=\box47
 \beforetitleunit=\skip50
 \aftertitleunit=\skip51
 \ttl@plus=\dimen139
 \ttl@minus=\dimen140
-\ttl@toksa=\toks16
+\ttl@toksa=\toks15
 \titlewidth=\dimen141
 \titlewidthlast=\dimen142
 \titlewidthfirst=\dimen143
 )
-(/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 149.
+Package color Info: Driver file: pdftex.def on input line 147.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbatim.s
+ty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
+\every@verbatim=\toks16
+\verbatim@line=\toks17
 \verbatim@in@stream=\read2
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks19
+\enitkv@toks@=\toks18
 \labelindent=\skip52
 \enit@outerparindent=\dimen144
-\enit@toks=\toks20
-\enit@inbox=\box51
-\enit@count@id=\count193
-\enitdp@description=\count194
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+\enit@toks=\toks19
+\enit@inbox=\box48
+\enit@count@id=\count187
+\enitdp@description=\count188
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks20
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.st
+y
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen145
-\Hy@linkcounter=\count195
-\Hy@pagecounter=\count196
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count189
+\Hy@pagecounter=\count190
+ (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lang
+patches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
 nguages
 )
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count197
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count191
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -156,60 +165,63 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count198
+\c@Hy@tempcnt=\count192
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen146
 
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count199
+\Fld@menulength=\count193
 \Field@Width=\dimen147
 \Fld@charsize=\dimen148
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count266
-\c@Item=\count267
-\c@Hfootnote=\count268
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
 with kernel methods
 )
-\Fld@listcount=\count269
-\c@bookmark@seq@number=\count270
+\Hy@abspage=\count194
+\c@Item=\count195
+\c@Hfootnote=\count196
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count197
+\c@bookmark@seq@number=\count198
+
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -217,7 +229,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
 \f@nch@headwidth=\skip54
@@ -229,78 +241,86 @@ rs
 \f@nch@O@erf=\skip60
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
-\babel@savecnt=\count271
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count199
 \U@D=\dimen149
-\l@unhyphenated=\language87
+\l@babelnohyphens=\language79
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count272
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+)
+\bbl@dirlevel=\count266
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.
+ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language20). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language20). Reported on input line 108.
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\tabularx.s
+ty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen150
-\ar@mcellbox=\box52
+\ar@mcellbox=\box49
 \extrarowheight=\dimen151
-\NC@list=\toks22
+\NC@list=\toks21
 \extratabsurround=\skip63
 \backup@length=\skip64
-\ar@cellbox=\box53
+\ar@cellbox=\box50
 )
 \TX@col@width=\dimen152
 \TX@old@table=\dimen153
 \TX@old@col=\dimen154
 \TX@target=\dimen155
 \TX@delta=\dimen156
-\TX@cols=\count273
-\TX@ftn=\toks23
+\TX@cols=\count267
+\TX@ftn=\toks22
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/roboto/roboto.sty
-Package: roboto 2019/12/11 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
 gines.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
 )
-\XKV@depth=\count274
+\XKV@depth=\count268
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+)) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -313,11 +333,12 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicod
+e.tex)
 LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input l
 ine 146.
 
-(/usr/share/texlive/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1roboto-lf.fd
 File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
@@ -325,16 +346,17 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 (Font)              scaled to size 10.95pt on input line 146.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
-\l__pdf_internal_box=\box54
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box51
 )
 
 LaTeX Warning: Unused global option(s):
     [A4].
 
-(./sajjad_abdollahi_resume.aux)
+No file sajjad_abdollahi_resume.aux.
 \openout1 = `sajjad_abdollahi_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
@@ -356,42 +378,41 @@ LaTeX Font Info:    ... okay on input line 146.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
 LaTeX Font Info:    ... okay on input line 146.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count276
+\scratchcounter=\count270
 \scratchdimen=\dimen157
-\scratchbox=\box55
-\nofMPsegments=\count277
-\nofMParguments=\count278
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count279
+\scratchbox=\box52
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count273
 \MPscratchDim=\dimen158
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 146.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+ (C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count282
+\c@section@level=\count276
 )
 LaTeX Info: Redefining \ref on input line 146.
 LaTeX Info: Redefining \pageref on input line 146.
 LaTeX Info: Redefining \nameref on input line 146.
-
-(./sajjad_abdollahi_resume.out) (./sajjad_abdollahi_resume.out)
 \@outlinefile=\write3
 \openout3 = `sajjad_abdollahi_resume.out'.
 
-\c@mv@tabular=\count283
-\c@mv@boldtabular=\count284
+\c@mv@tabular=\count277
+\c@mv@boldtabular=\count278
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -401,7 +422,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 15
 2.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
@@ -423,7 +444,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/sc' will be
 LaTeX Font Info:    Trying to load font information for TS1+Roboto-LF on input 
 line 186.
 
-(/usr/share/texlive/texmf-dist/tex/latex/roboto/TS1Roboto-LF.fd
+(C:\Users\sajjad\AppData\Local\Programs\MiKTeX\tex/latex/roboto\ts1roboto-lf.fd
 File: TS1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for TS1/Roboto-LF.
 
 )
@@ -447,36 +468,35 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/sajjad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[2] (./sajjad_abdollahi_resume.aux)
-Package rerunfilecheck Info: File `sajjad_abdollahi_resume.out' has not changed
-.
-(rerunfilecheck)             Checksum: F15BBB0FD5D72568B4D34C4FB43BCBB6;486.
+[2] (sajjad_abdollahi_resume.aux)
+
+Package rerunfilecheck Warning: File `sajjad_abdollahi_resume.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `sajjad_abdollahi_resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  F15BBB0FD5D72568B4D34C4FB43BCBB6;486.
  ) 
 Here is how much of TeX's memory you used:
- 11388 strings out of 478287
- 184397 string characters out of 5849289
- 495683 words of memory out of 5000000
- 29417 multiletter control sequences out of 15000+600000
- 505430 words of font info for 56 fonts, out of 8000000 for 9000
+ 10660 strings out of 479307
+ 162907 string characters out of 2855902
+ 481545 words of memory out of 3000000
+ 27947 multiletter control sequences out of 15000+600000
+ 439601 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,484b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/usr/s
-hare/texlive/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc}{/usr/share/texl
-ive/texmf-dist/fonts/enc/dvips/roboto/rbto_shbyjm.enc}</usr/share/texlive/texmf
--dist/fonts/type1/google/roboto/Roboto-Bold.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/google/roboto/Roboto-Italic.pfb></usr/share/texlive/texmf-dist/font
-s/type1/google/roboto/Roboto-Regular.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on sajjad_abdollahi_resume.pdf (2 pages, 85511 bytes).
-PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 71i,11n,74p,540b,589s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/sajjad/AppData/Local/Programs/MiKTeX/fonts/enc/roboto/rbto_b5rac7.e
+nc}{C:/Users/sajjad/AppData/Local/Programs/MiKTeX/fonts/enc/roboto/rbto_ocbbsb.
+enc}{C:/Users/sajjad/AppData/Local/Programs/MiKTeX/fonts/enc/roboto/rbto_shbyjm
+.enc}
+!pdfTeX error: pdflatex (file Roboto-Bold.pfb): cannot open Type 1 font file fo
+r reading
+ ==> Fatal error occurred, no output PDF file produced!

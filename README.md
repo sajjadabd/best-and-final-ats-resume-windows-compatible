@@ -1,2 +1,2 @@
-# best-ats-resume-kitkat
-best latex ats resume
+# best-and-final-ats-resume-windows-compatible
+best ats resume compatible with windows and most ATS engines
